@@ -26,7 +26,7 @@ Here are some of my notable projects:
 
 ## 📫 Get in Touch  
 
-- **Email:**sujalkumar7209@gmail.com
+- **Email**:sujalkumar7209@gmail.com
 - **LinkedIn:** www.linkedin.com/in/sujal-kumar-10b136279
 
 Feel free to reach out if you want to collaborate on a project or just chat about technology!  
