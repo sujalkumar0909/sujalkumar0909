@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujal-kumar-10b136279/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00FF9C)](https://github.com/sujalkumar0909)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=00FF9C)](https://github.com/sujalkumar0909)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=00FF9C)](https://sujal-portfolio-tan.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:sujalkumar7209@gmail.com)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
@@ -68,7 +68,7 @@ $ ./init.sh
 
 **🛠️ Tools & Platforms**
 <br>
-<img src="https://skillicons.dev/icons?i=docker,aws,git,githubactions&theme=dark" />
+<img src="https://skillicons.dev/icons?i=docker,aws,git,githubactions,n8n&theme=dark" />
 
 **👁️ ML / Computer Vision**
 <br>
@@ -195,7 +195,7 @@ Production-grade backend for employee medical insurance claims. REST APIs for be
 
 ### `> ./connect.sh --establish-link`
 
-📬 [sujalkumar7209@gmail.com](mailto:sujalkumar7209@gmail.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/sujal-kumar-10b136279/) · 💻 [GitHub](https://github.com/sujalkumar0909)
+📬 [sujalkumar7209@gmail.com](mailto:sujalkumar7209@gmail.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/sujal-kumar-10b136279/) · 💻 [GitHub](https://github.com/sujalkumar0909) · 🌐 [Portfolio](https://sujal-portfolio-tan.vercel.app/)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=sujalkumar0909.sujalkumar0909&color=00FF9C&style=flat-square)
 
